@@ -26,4 +26,6 @@ En Python copiar el código, señalar:
 - [ ] **variable_y**: Señalar la variable target para aplicar la imputación.
 - [ ] **variable_x**: Señalar la(s) variable(s) para imputar.
 - [ ] **muestra**: Señalar la muestra en la que se define muestras **TRAIN** y **TEST**.
+- [ ] **ventana**: Señalar la ventana la cual se considera para hacer los calculos, tal como: **TRAIN** o **TEST**.
+
 
